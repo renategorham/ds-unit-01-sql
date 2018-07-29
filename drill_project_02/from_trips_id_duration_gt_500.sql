@@ -1,5 +1,5 @@
 SELECT 
-	trip_id
+	trip_id,
 	duration
 FROM 
 	trips
